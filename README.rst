@@ -1,15 +1,15 @@
-==================
-complexity-example
-==================
+===================
+complexity-example2
+===================
 
-An example of a Complexity site. 
+A richer, more full-featured Complexity example project. For a more barebones one, see https://github.com/audreyr/complexity-example.
 
 Clone this and use it with the Complexity static site generator: https://github.com/audreyr/complexity
 
 Try it out::
 
     $ pip install complexity
-    $ git clone git@github.com:audreyr/complexity-example.git my_proj
+    $ git clone git@github.com:audreyr/complexity-example2.git my_proj
     $ cd my_proj
     $ complexity project/ www/
 
