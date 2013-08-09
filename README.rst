@@ -11,7 +11,7 @@ Try it out::
     $ pip install complexity
     $ git clone git@github.com:audreyr/complexity-example2.git my_proj
     $ cd my_proj
-    $ complexity project/ www/
+    $ complexity project/
 
 Once you've done that, open a web browser to http://127.0.0.1:9090 to see the
 newly generated Complexity static site.
