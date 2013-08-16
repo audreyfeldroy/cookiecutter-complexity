@@ -1,17 +1,12 @@
-===================
-complexity-example2
-===================
+=======================
+cookiecutter-complexity
+=======================
 
-A richer, more full-featured Complexity example project. For a more barebones one, see https://github.com/audreyr/complexity-example.
+Cookiecutter template for a Complexity site. See https://github.com/audreyr/cookiecutter and https://github.com/audreyr/complexity.
 
-Clone this and use it with the Complexity static site generator: https://github.com/audreyr/complexity
+Features
+--------
 
-Try it out::
-
-    $ pip install complexity
-    $ git clone git@github.com:audreyr/complexity-example2.git my_proj
-    $ cd my_proj
-    $ complexity project/
-
-Once you've done that, open a web browser to http://127.0.0.1:9090 to see the
-newly generated Complexity static site.
+* Free software: MIT license (audreyr.mit-license.org)
+* Bootstrap 3
+* Bootstrap 3 Glyphicons
