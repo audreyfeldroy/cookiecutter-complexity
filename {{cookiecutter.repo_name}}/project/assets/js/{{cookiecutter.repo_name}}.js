@@ -1,1 +1,1 @@
-/*! example.js */
+/*! {{ cookiecutter.repo_name }}.js */
