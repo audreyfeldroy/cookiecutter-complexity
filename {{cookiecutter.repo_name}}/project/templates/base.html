@@ -4,7 +4,7 @@
     <title>{% block title %}{% endblock %} - {{ cookiecutter.website_name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/example.css" rel="stylesheet">
+    <link href="/css/{{ cookiecutter.repo_name }}.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -22,6 +22,6 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/js/bootstrap.min.js"></script>
-<script src="/js/example.js"></script>
+<script src="/js/{{ cookiecutter.repo_name }}.js"></script>
 </body>
 </html>
