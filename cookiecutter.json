@@ -1,0 +1,5 @@
+{
+	"project_name": "Complexity Boilerplate",
+	"repo_name": "boilerplate",
+	"project_short_description": "Complexity Boilerplate is @audreyr's starter Complexity site. It's a bit opinionated, so you might want to start from complexity-example or create your own Cookiecutter template for Complexity."
+}
