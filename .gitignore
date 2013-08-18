@@ -39,3 +39,6 @@ www
 
 # Sphinx
 docs/_build
+
+# Cookiecutter
+boilerplate
