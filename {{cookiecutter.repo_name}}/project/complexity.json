@@ -5,6 +5,8 @@
   "output_dir": "../www",
   "unexpanded_templates": [
     "404.html",
-    "500.html"
+    "500.html",
+    "crossdomain.xml",
+    "humans.txt"
   ]
 }
