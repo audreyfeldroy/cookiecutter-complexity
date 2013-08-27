@@ -2,5 +2,9 @@
   "templates_dir": "templates",
   "assets_dir": "assets",
   "context_dir": "context",
-  "output_dir": "../www"
+  "output_dir": "../www",
+  "unexpanded_templates": [
+    "404.html",
+    "500.html"
+  ]
 }
