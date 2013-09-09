@@ -4,9 +4,12 @@
 
 {{ '{% block content %}' }}
 <div class="row">
-  <div class="col-sm-12 col-lg-12">
-    <h1>Home</h1>
+  <div class="col-sm-6 col-lg-6">
+    <h1>{{ cookiecutter.project_short_description }}</h1>
     <p>This is the Home page of {{ cookiecutter.website_name }}.</p>
+  </div>
+  <div class="col-sm-6 col-lg-6">
+    <p>TODO: put image here</p>
   </div>
 </div>
 {{ '{% endblock %}' }}
